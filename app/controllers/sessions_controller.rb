@@ -1,9 +1,9 @@
 class SessionsController < ApplicationController
 
   def create
-    @user = User.find(params[:user_id])
+    @user = User.find_by(username: params[:username])
     if request.xhr?
-      if @user.&password == params[:password]
+      if @user&.password == params[:password]
         session[:user_id] = @user.id
       end
       "Welcome RedBull - you are now logged in!"
