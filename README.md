@@ -1,24 +1,12 @@
-# README
+# Gabriel Osborne's DevBlog
+### Github:
+Gabriel J. Osborne
+__*osbornegabriel*__
+### LinkedIn:
+__*https://www.linkedin.com/in/gabrielosborne/*__
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### Why Are You Building A Blog?...Don't you already have a book blog and youtube channel?...etc. etc.
+Well, in the words of Pickle Rick:
+"The reason anyone would do this if they could, which they can't, would be because they could, which they can't."
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+That said, this is intended to be a combination of sandbox fun, experimentation, and meaningful content posted onto the deployed site.
